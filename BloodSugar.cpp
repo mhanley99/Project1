@@ -3,12 +3,10 @@
 // COSC 2030
 // BloodSugar.cpp
 
-//#include "BloodSugar.h"
 #include "LinkedList.h"
 #include <iostream>
 #include <array>
 #include <sstream>
-
 
 using std::cin;
 using std::cout;
